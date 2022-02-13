@@ -20,7 +20,7 @@
 
 title: Not Yet Expired
 email: aarontlott@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "not-yet-expired-blog" # the subpath of your site, e.g. /blog
 url: "https://www.notyetexpired.com"
 name: "Not Yet Expired"
 description: "Stories and games."
