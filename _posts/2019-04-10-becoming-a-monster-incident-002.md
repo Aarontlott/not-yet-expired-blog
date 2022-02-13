@@ -1,18 +1,18 @@
 ---
 id: 698
-title: 'Becoming a monster &#8211; incident 002'
-date: '2019-04-10T15:00:19-07:00'
+title: "Becoming a monster - incident 002"
+date: "2019-04-10T15:00:19-07:00"
 author: Aaron
 layout: post
-guid: 'https://www.notyetexpired.com/?p=698'
+guid: "https://www.notyetexpired.com/?p=698"
 permalink: /2019/04/becoming-a-monster-incident-002/
 image: /wp-content/uploads/2019/03/wedding-day.jpg
 categories:
-    - 'Becoming a monster'
-    - Stories
+  - "Becoming a monster"
+  - Stories
 tags:
-    - horror
-    - 'short story'
+  - horror
+  - "short story"
 ---
 
 ## Wedding day
@@ -53,7 +53,7 @@ You don’t hear the smooth click of the bathroom door but you do hear the stran
 
 > A long, wavering squeak comes out instead.
 
-She screams. It sends you into motion; some new set of instincts kicks in. Powerful legs carry you past her, out of the window, and onto the balcony. She falls back into the hallway, screaming as if her daughter had been murdered by a rat monster. Oblivious to the fact that her daughter *was* that rat monster.
+She screams. It sends you into motion; some new set of instincts kicks in. Powerful legs carry you past her, out of the window, and onto the balcony. She falls back into the hallway, screaming as if her daughter had been murdered by a rat monster. Oblivious to the fact that her daughter _was_ that rat monster.
 
 Your grandmother’s estate stretches out before you. You think you can escape if you can only make it to the treeline. You know your spouse-never-to-be is just down the balcony from your room and you find yourself at the window. Heart hammering in your chest, you reach a claw to the window, pausing. Thinking.
 
@@ -67,6 +67,6 @@ You have a long day ahead of you before night falls, but your strange new legs d
 
 You run.
 
-- - - - - -
+---
 
 Cover image from [Banter Snaps](https://unsplash.com/photos/y4bE8ST_CTg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/wedding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

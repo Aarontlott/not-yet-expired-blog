@@ -1,17 +1,17 @@
 ---
 id: 813
-title: 'Becoming a monster &#8211; incident 004'
-date: '2020-11-02T01:42:11-08:00'
+title: "Becoming a monster - incident 004"
+date: "2020-11-02T01:42:11-08:00"
 author: Aaron
 layout: post
-guid: 'https://www.notyetexpired.com/?p=813'
-permalink: '/?p=813'
+guid: "https://www.notyetexpired.com/?p=813"
+permalink: "/?p=813"
 categories:
-    - 'Becoming a monster'
-    - Stories
+  - "Becoming a monster"
+  - Stories
 tags:
-    - horror
-    - 'short story'
+  - horror
+  - "short story"
 ---
 
 ## Raiders

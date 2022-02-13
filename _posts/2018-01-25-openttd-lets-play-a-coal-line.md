@@ -1,25 +1,25 @@
 ---
 id: 237
-title: 'OpenTTD || Let&#8217;s Play &#8211; A Coal Line &#8211; EP01'
-date: '2018-01-25T03:18:10-08:00'
+title: "OpenTTD || Let's Play - A Coal Line - EP01"
+date: "2018-01-25T03:18:10-08:00"
 author: Aaron
 layout: post
-guid: 'https://www.notyetexpired.com/?p=237'
+guid: "https://www.notyetexpired.com/?p=237"
 permalink: /2018/01/openttd-lets-play-a-coal-line/
 image: /wp-content/uploads/2018/01/coal_train_openttd.png
 categories:
-    - 'Current Games'
-    - OpenTTD
-    - 'Yesterdays Games'
+  - "Current Games"
+  - OpenTTD
+  - "Yesterdays Games"
 ---
 
 Join Aaron as he starts his transportation empire, starting in 1950 and, as ever, starting with a coal line.
 
-- - - - - -
+---
 
 Quick Stats:
 
-**OpenTTD** | Released in 2004 | *Type*: Business simulation game | *Cost*: Free | *Mods*: Some
+**OpenTTD** | Released in 2004 | _Type_: Business simulation game | _Cost_: Free | _Mods_: Some
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="416" loading="lazy" src="https://www.youtube.com/embed/k6iZ2Hz6sGo" width="740"><span class="mce_SELRES_start" data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;">﻿</span></iframe>
 

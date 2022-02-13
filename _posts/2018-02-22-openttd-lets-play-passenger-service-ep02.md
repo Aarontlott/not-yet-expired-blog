@@ -1,25 +1,25 @@
 ---
 id: 292
-title: 'OpenTTD || Let&#8217;s Play &#8211; Passenger Service &#8211; EP02'
-date: '2018-02-22T02:16:01-08:00'
+title: "OpenTTD || Let's Play - Passenger Service - EP02"
+date: "2018-02-22T02:16:01-08:00"
 author: Aaron
 layout: post
-guid: 'https://www.notyetexpired.com/?p=292'
+guid: "https://www.notyetexpired.com/?p=292"
 permalink: /2018/02/openttd-lets-play-passenger-service-ep02/
 image: /wp-content/uploads/2018/02/passenger_train_openttd.png
 categories:
-    - 'Current Games'
-    - OpenTTD
-    - 'Yesterdays Games'
+  - "Current Games"
+  - OpenTTD
+  - "Yesterdays Games"
 ---
 
 Join Aaron as he continues building his transportation empire. With the coal line securing a nice stable income, it’s time to start looking into passenger transport and, along with it, city growth.
 
-- - - - - -
+---
 
 Quick Stats:
 
-**OpenTTD** | Released in 2004 | *Type*: Business simulation game | *Cost*: Free | *Mods*: Some
+**OpenTTD** | Released in 2004 | _Type_: Business simulation game | _Cost_: Free | _Mods_: Some
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="416" loading="lazy" src="https://www.youtube.com/embed/TJq3P4afR0I" width="740"></iframe>
 
