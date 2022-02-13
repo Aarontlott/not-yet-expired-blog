@@ -27,7 +27,6 @@ description: "Stories and games."
 github_username: aarontlott
 
 paginate: 5
-paginate_path: "not-yet-expired-blog/page/:num/"
 
 show_excerpts: true
 excerpt_separator: <!--more-->
